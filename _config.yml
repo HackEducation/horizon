@@ -45,7 +45,7 @@ social:
     share_link: "?u="
 
   - icon:   github
-    url:    https://github.com/audreywatters/horizon
+    url:    https://github.com/hackeducation/horizon
     desc:   Fork me on github
     share_url: 
     share_title:
