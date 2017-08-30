@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Horizon Report Data Liberation"
+title: "Horizon Report History Project"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
