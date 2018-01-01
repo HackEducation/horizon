@@ -3,7 +3,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Site settings
-title: "Horizon Report History Project"
+title: "A Horizon Report History Project"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
@@ -12,7 +12,7 @@ email: mail@audreywatters.com
 logo: "/assets/images/new_hack_logo.jpg"
 logo2: "/assets/images/beless.png"
 # blog cover
-cover: "/assets/images/typewriter.png"
+cover: "/assets/images/pigeon.jpg"
 covercredits: "http://bryanmmathers.com/"
 
 name: 'Audrey Watters'
